@@ -6,7 +6,7 @@ public class Arrays2 {
 	
 //	Arrrays Exercise 
 	   
-/*
+/*   
  * 		create int array 
  * 		it should have 5 elements in it 
  * 		get sum of 3th and 5th  
