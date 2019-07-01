@@ -5,7 +5,7 @@ import java.util.ArrayList;
 public class Arrays2 {
 	
 //	Arrrays Exercise 
-	
+	   
 /*
  * 		create int array 
  * 		it should have 5 elements in it 
